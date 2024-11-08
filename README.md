@@ -1,7 +1,10 @@
 Steps to do:
 
 - Run all scripts in scripts_to_execute
-- Activate windows https://kmsavto.cc/%d0%b0%d0%ba%d1%82%d0%b8%d0%b2%d0%b0%d1%82%d0%be%d1%80-windows-10/?ysclid=lr48trikvu318802468
-- Logins: yandex, github, google, spotify, steam
+- Activate windows https://kms-auto.org/kms-activator-for-windows/
+- Logins: yandex, spotify, steam
 - Sync VSCode
 - https://github.com/Sycnex/Windows10Debloater
+- https://github.com/Raphire/Win11Debloat
+- https://www.itechtics.com/disable-automatic-driver-updates-windows/
+- https://www.tomsguide.com/how-to/how-to-turn-off-automatic-updates-in-windows-10
